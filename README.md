@@ -1,9 +1,6 @@
 ## Store Management System(Team13)
 
 
-GitHub link- https://github.com/Nirajpatel26/Team13_Store_Management_System
-
-# Steps to run the scripts for Project_3-
 
 1. Open Environment setup folder from the github and then in the Oracle Admin, run the APP_Admin-creation.sql file to create the Admin for the StoreManagementSystem 
 2. Once APP_Admin user is created , Create new connection in SQL Developer with name and password mentioned in APP_ADMIN-creation.sql file , then run Table-creation-DDL.sql file to create the tables 
